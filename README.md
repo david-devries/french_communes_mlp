@@ -25,3 +25,7 @@ Open and run `french_villages.ipynb` in Jupyter.
 A simple bigram MLP with learnable character embeddings, one hidden layer (128 units, tanh), and a softmax output layer. The model is trained to predict the next character given a context of previous characters.
 
 Best validation loss: **2.03** (`context_length=8`, `n_embed=64`, `n_hidden=128`) after trying a few configs.
+
+## Sample outputs
+
+Chandans, Etilaiv, Lépantfais, Nouville-en-Payele, Saint-Jroné
